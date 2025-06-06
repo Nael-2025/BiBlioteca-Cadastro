@@ -1,0 +1,14 @@
+C:\Users\abnael\Meutrabalho\bin\Debug\net8.0\Meutrabalho.exe
+C:\Users\abnael\Meutrabalho\bin\Debug\net8.0\Meutrabalho.deps.json
+C:\Users\abnael\Meutrabalho\bin\Debug\net8.0\Meutrabalho.runtimeconfig.json
+C:\Users\abnael\Meutrabalho\bin\Debug\net8.0\Meutrabalho.dll
+C:\Users\abnael\Meutrabalho\bin\Debug\net8.0\Meutrabalho.pdb
+C:\Users\abnael\Meutrabalho\obj\Debug\net8.0\Meutrabalho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abnael\Meutrabalho\obj\Debug\net8.0\Meutrabalho.AssemblyInfoInputs.cache
+C:\Users\abnael\Meutrabalho\obj\Debug\net8.0\Meutrabalho.AssemblyInfo.cs
+C:\Users\abnael\Meutrabalho\obj\Debug\net8.0\Meutrabalho.csproj.CoreCompileInputs.cache
+C:\Users\abnael\Meutrabalho\obj\Debug\net8.0\Meutrabalho.dll
+C:\Users\abnael\Meutrabalho\obj\Debug\net8.0\refint\Meutrabalho.dll
+C:\Users\abnael\Meutrabalho\obj\Debug\net8.0\Meutrabalho.pdb
+C:\Users\abnael\Meutrabalho\obj\Debug\net8.0\Meutrabalho.genruntimeconfig.cache
+C:\Users\abnael\Meutrabalho\obj\Debug\net8.0\ref\Meutrabalho.dll

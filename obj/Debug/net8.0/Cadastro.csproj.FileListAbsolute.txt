@@ -1,0 +1,43 @@
+D:\PROJETOS\cadastro de biblioteca\bin\Debug\net8.0\Cadastro.exe
+D:\PROJETOS\cadastro de biblioteca\bin\Debug\net8.0\Cadastro.deps.json
+D:\PROJETOS\cadastro de biblioteca\bin\Debug\net8.0\Cadastro.runtimeconfig.json
+D:\PROJETOS\cadastro de biblioteca\bin\Debug\net8.0\Cadastro.dll
+D:\PROJETOS\cadastro de biblioteca\bin\Debug\net8.0\Cadastro.pdb
+D:\PROJETOS\cadastro de biblioteca\obj\Debug\net8.0\Cadastro.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJETOS\cadastro de biblioteca\obj\Debug\net8.0\Cadastro.AssemblyInfoInputs.cache
+D:\PROJETOS\cadastro de biblioteca\obj\Debug\net8.0\Cadastro.AssemblyInfo.cs
+D:\PROJETOS\cadastro de biblioteca\obj\Debug\net8.0\Cadastro.csproj.CoreCompileInputs.cache
+D:\PROJETOS\cadastro de biblioteca\obj\Debug\net8.0\Cadastro.dll
+D:\PROJETOS\cadastro de biblioteca\obj\Debug\net8.0\refint\Cadastro.dll
+D:\PROJETOS\cadastro de biblioteca\obj\Debug\net8.0\Cadastro.pdb
+D:\PROJETOS\cadastro de biblioteca\obj\Debug\net8.0\Cadastro.genruntimeconfig.cache
+D:\PROJETOS\cadastro de biblioteca\obj\Debug\net8.0\ref\Cadastro.dll
+F:\PROJETOS\cadastro de biblioteca\bin\Debug\net8.0\Cadastro.exe
+F:\PROJETOS\cadastro de biblioteca\bin\Debug\net8.0\Cadastro.deps.json
+F:\PROJETOS\cadastro de biblioteca\bin\Debug\net8.0\Cadastro.runtimeconfig.json
+F:\PROJETOS\cadastro de biblioteca\bin\Debug\net8.0\Cadastro.dll
+F:\PROJETOS\cadastro de biblioteca\bin\Debug\net8.0\Cadastro.pdb
+F:\PROJETOS\cadastro de biblioteca\obj\Debug\net8.0\Cadastro.GeneratedMSBuildEditorConfig.editorconfig
+F:\PROJETOS\cadastro de biblioteca\obj\Debug\net8.0\Cadastro.AssemblyInfoInputs.cache
+F:\PROJETOS\cadastro de biblioteca\obj\Debug\net8.0\Cadastro.AssemblyInfo.cs
+F:\PROJETOS\cadastro de biblioteca\obj\Debug\net8.0\Cadastro.csproj.CoreCompileInputs.cache
+F:\PROJETOS\cadastro de biblioteca\obj\Debug\net8.0\Cadastro.dll
+F:\PROJETOS\cadastro de biblioteca\obj\Debug\net8.0\refint\Cadastro.dll
+F:\PROJETOS\cadastro de biblioteca\obj\Debug\net8.0\Cadastro.pdb
+F:\PROJETOS\cadastro de biblioteca\obj\Debug\net8.0\Cadastro.genruntimeconfig.cache
+F:\PROJETOS\cadastro de biblioteca\obj\Debug\net8.0\ref\Cadastro.dll
+C:\Users\abnael\Biblioteca-Cadastro\bin\Debug\net8.0\Cadastro.exe
+C:\Users\abnael\Biblioteca-Cadastro\bin\Debug\net8.0\Cadastro.deps.json
+C:\Users\abnael\Biblioteca-Cadastro\bin\Debug\net8.0\Cadastro.runtimeconfig.json
+C:\Users\abnael\Biblioteca-Cadastro\bin\Debug\net8.0\Cadastro.dll
+C:\Users\abnael\Biblioteca-Cadastro\bin\Debug\net8.0\Cadastro.pdb
+C:\Users\abnael\Biblioteca-Cadastro\obj\Debug\net8.0\Cadastro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abnael\Biblioteca-Cadastro\obj\Debug\net8.0\Cadastro.AssemblyInfoInputs.cache
+C:\Users\abnael\Biblioteca-Cadastro\obj\Debug\net8.0\Cadastro.AssemblyInfo.cs
+C:\Users\abnael\Biblioteca-Cadastro\obj\Debug\net8.0\Cadastro.csproj.CoreCompileInputs.cache
+C:\Users\abnael\Biblioteca-Cadastro\obj\Debug\net8.0\Cadastro.sourcelink.json
+C:\Users\abnael\Biblioteca-Cadastro\obj\Debug\net8.0\Cadastro.dll
+C:\Users\abnael\Biblioteca-Cadastro\obj\Debug\net8.0\refint\Cadastro.dll
+C:\Users\abnael\Biblioteca-Cadastro\obj\Debug\net8.0\Cadastro.pdb
+C:\Users\abnael\Biblioteca-Cadastro\obj\Debug\net8.0\Cadastro.genruntimeconfig.cache
+C:\Users\abnael\Biblioteca-Cadastro\obj\Debug\net8.0\ref\Cadastro.dll
