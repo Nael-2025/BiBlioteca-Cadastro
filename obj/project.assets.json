@@ -8,24 +8,26 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\abnael\\.nuget\\packages\\": {}
+    "C:\\Users\\grautecnico\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\abnael\\Biblioteca-Cadastro\\Cadastro.csproj",
+      "projectUniqueName": "C:\\Users\\grautecnico\\Biblioteca-Cadastro\\Cadastro.csproj",
       "projectName": "Cadastro",
-      "projectPath": "C:\\Users\\abnael\\Biblioteca-Cadastro\\Cadastro.csproj",
-      "packagesPath": "C:\\Users\\abnael\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\abnael\\Biblioteca-Cadastro\\obj\\",
+      "projectPath": "C:\\Users\\grautecnico\\Biblioteca-Cadastro\\Cadastro.csproj",
+      "packagesPath": "C:\\Users\\grautecnico\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\grautecnico\\Biblioteca-Cadastro\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\abnael\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\grautecnico\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -38,11 +40,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -64,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.410/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
